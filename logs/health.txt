@@ -1,0 +1,1 @@
+{"headers":{"Date":["Fri, 29 Mar 2019 18:27:08 GMT"],"Content-Type":["application/json;charset=UTF-8"],"Transfer-Encoding":["chunked"]},"body":{"status":"UP"},"statusCode":"OK","statusCodeValue":200}
